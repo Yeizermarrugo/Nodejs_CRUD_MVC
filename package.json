@@ -1,0 +1,23 @@
+{
+  "name": "entregable1_tareas",
+  "version": "1.0.0",
+  "description": "Entregable CRUD_MVC",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodemon",
+    "express",
+    "node"
+  ],
+  "author": "Yeizer Marrugo",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
+  }
+}
